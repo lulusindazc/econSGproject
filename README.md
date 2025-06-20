@@ -1,14 +1,13 @@
-# Get
+# econSG
 
-This is the repository that contains source code for the [Get website](https://lulusindazc.github.io/getproject/).
+This is the repository that contains source code for the [econSG website](https://lulusindazc.github.io/econSGproject/).
 
-If you find Get useful for your work please cite:
+If you find econSG useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Can Zhang and Gim Hee Lee},
-  title     = {GeT: Generative Target Structure Debiasing for Domain Adaptation},
-  journal   = {ICCV},
-  year      = {2023},
+@inproceedings{zhangeconsg,
+  title={econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians},
+  author={Zhang, Can and Lee, Gim Hee},
+  booktitle={The Thirteenth International Conference on Learning Representations}
 }
 ```
 
